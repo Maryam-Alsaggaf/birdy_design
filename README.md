@@ -10,6 +10,13 @@ It's a social media website provide multiple features
 
 [Here's Figma file ](https://www.figma.com/file/jDxSFir0oyHAHOSeYhFQ2q/Brmjha-task-3?type=design&node-id=2%3A2&mode=design&t=EikBDyt8GXA1lCJH-1)
 
+bulid by :
+@NemaAlnajjar
+@RuwaynAlharbi
+@FarahAlamayrah
+@Ranaalharbi
+@maryam-alsaggaf
+
 
 
 
